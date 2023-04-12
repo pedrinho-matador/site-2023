@@ -2,7 +2,12 @@ body{
 
 }
 img{
-    width: 1900px; ;
-    left: 0px;
-    height: 4500px ;
+    height: 700px;
+    width: 1900px;
+}
+h1{
+    font-size: 90px;
+}
+h2{
+    font-size: 100px;
 }
