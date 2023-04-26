@@ -5,9 +5,24 @@ img{
     height: 700px;
     width: 1900px;
 }
-h1{
+h3{
     font-size: 90px;
 }
 h2{
     font-size: 100px;
+}
+ul{
+    font-size: 70px;
+}
+h1{
+    font-size: 150px;
+    text-align: center;
+}
+h4{
+    font-size: 100px;
+    text-align: center;
+   
+}
+.whatss{
+
 }
